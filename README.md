@@ -5,7 +5,7 @@ This repository was imported from a private Github enterprise class repository f
 
 Author: Logan McLaurin
 <br>
-This software and comes unwarrented at the discretion of NCSU.
+This software comes unwarrented.
 
 ## Introduction
 
@@ -48,4 +48,4 @@ After reviewing both visualizations, there does appear to be evidence for a warm
 
 ### Testing
 
-The strategies taken with regards to testing the functions of the software relate to ensuring data was loaded correctly comparing numeric results from the plotting to the expected or cross-referenced results. Testing is extensively covered as a part of the Jupyter Notebooks listed and described above. It is, however, rather difficult to quantitatively test the functions of the plotting software directly as there is not a set, desired output that the plotting functions or the widgets can be tested against. However, extinsively testing the data provided to these plotting processes ensures that what is being plotted is reliable data. The visualizations themselves can be "tested" simply by observing whether or not the visualizations make sense without any extreme outliers. Averages and elements plotted in the graphs and anomaly map have been cross-examined with other values for specific locations and general regions provided by NASA and the NCDC. The purpose of these visualizations is to let the data and results speak to the user directly.
+The strategies taken with regards to testing the functions of the software relate to ensuring data was loaded correctly comparing numeric results from the plotting to the expected or cross-referenced results. Testing is extensively covered as a part of the python functions listed and described above. It is, however, rather difficult to quantitatively test the functions of the plotting software directly as there is not a set, desired output that the plotting functions or the widgets can be tested against. However, extinsively testing the data provided to these plotting processes ensures that what is being plotted is reliable data. The visualizations themselves can be "tested" simply by observing whether or not the visualizations make sense without any extreme outliers. Averages and elements plotted in the graphs and anomaly map have been cross-examined with other values for specific locations and general regions provided by NASA and the NCDC. The purpose of these visualizations is to let the data and results speak to the user directly.
