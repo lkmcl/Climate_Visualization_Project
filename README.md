@@ -4,6 +4,7 @@ This repository was imported from a private Github enterprise class repository f
 # Climate Visualization Project
 
 Author: Logan McLaurin
+<br>
 This software and comes unwarrented at the discretion of NCSU.
 
 ## Introduction
