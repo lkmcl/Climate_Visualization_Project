@@ -1,5 +1,5 @@
 ## Background
-This repository was imported from a private Github enterprise class repository from my 2022 DSC 495 Scientific Computing in Python course and is meant to serve as a coding and data analysis sample to be referenced. Key progamming methods found included basic Python programming, big data handling, data visualization techniques, an application of advanced Python skills to render self-updating drop-down menus (widgets), unit testing procedures, and general productive coding habits and documentation. The description of the project in standard README.md format is found below.
+This repository was imported from a private Github enterprise class repository from my 2022 DSC 495 Scientific Computing in Python course and is meant to serve as a coding and data analysis sample to be referenced. Key progamming methods found included basic Python programming, big data handling, data visualization techniques, an application of advanced Python skills to render self-updating drop-down menus (widgets), unit testing procedures, and general productive coding habits and documentation. The file `Instructor_Feedback.md` includes the suggested edits and the original grading rubric from DSC 495 instructor Dr. Arvind Saibaba. The description of the project in standard README.md format is found below.
 
 # Climate Visualization Project
 
@@ -37,6 +37,10 @@ The file `analyze_city_climate_data.py` incorporates the processes described abo
 These visualizations can be paired with Jupyter widgets to enhance the user experience and optimize the functionality of this software. The Jupyter widgets used include dropdown menus which incorporate all of the main inputs described for the analysis of both visualizations above. The functions for the City Climate Timeseries and the Global Anomalies (respectively) included in `Interactive_Climate_Visualization.py` allow for the implementation of these widgets for each process. The widgets are coded to automatically update the map and timeseries upon the change of any of the dropdown values. This promotes easy access to this software so that mulitple different combinations of inputs can be tested quickly and efficiently without any headaches for the user.
 <br>
 The Jupyter Notebook `Climate_Visualization_Report.ipynb` can be used to plot the Global Temperature Anomalies Map and the Temperature Timeseries Plots for Cities. Both cells MUST be ran by the user for the dropdown menus to generate. These are not self containing cells with the exception of the map. Please feel free to experiment with the software in this jupyter notebook further. Two examples of the generated producted for both the global analyses and the city plots are included below:
+
+![plot](World_Climate_Anomalies_Example.png)
+
+![plot](City_Climate_Time_Series_Example.png)
 
 ## Results and Testing
 
