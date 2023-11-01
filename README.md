@@ -38,6 +38,10 @@ These visualizations can be paired with Jupyter widgets to enhance the user expe
 <br>
 The Jupyter Notebook `Climate_Visualization_Report.ipynb` can be used to plot the Global Temperature Anomalies Map and the Temperature Timeseries Plots for Cities. Both cells MUST be ran by the user for the dropdown menus to generate. These are not self containing cells with the exception of the map. Please feel free to experiment with the software in this jupyter notebook further. Two examples of the generated producted for both the global analyses and the city plots are included below:
 
+![plot](World_Climate_Anomalies_Example.png)
+
+![plot](City_Climate_Time_Series_Example.png)
+
 ## Results and Testing
 
 After reviewing both visualizations, there does appear to be evidence for a warming climate across most of the observed globe and the cities. As far as the global temperature anomalies are concerned, as time advances closer to the present, a greater amount of area exhibits positive average temperature anomalies for each month. Most cities also appear to have a positive trend when observing the times series for most months. This project is a representation of how data visualization can support a broader understanding of a field of research particularly with regards to climate change.
