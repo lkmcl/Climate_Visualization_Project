@@ -1,5 +1,5 @@
 ## Background
-This repository was imported from a private Github enterprise class repository from my 2022 DSC 495 Scientific Computing in Python course and is meant to serve as a coding and data analysis sample to be referenced. Key progamming methods found included basic Python programming, big data handling, data visualization techniques, an application of advanced Python skills to render self-updating drop-down menus (widgets), unit testing procedures, and general productive coding habits and documentation. The description of the project in standard README.md format is found below.
+This repository was imported from a private Github enterprise class repository from my 2022 DSC 495 Scientific Computing in Python course and is meant to serve as a coding and data analysis sample to be referenced. Key progamming methods found included basic Python programming, big data handling, data visualization techniques, an application of advanced Python skills to render self-updating drop-down menus (widgets), unit testing procedures, and general productive coding habits and documentation. The file `Instructor_Feedback.md` includes the suggested edits and the original grading rubric from DSC 495 instructor Dr. Arvind Saibaba. The description of the project in standard README.md format is found below.
 
 # Climate Visualization Project
 
